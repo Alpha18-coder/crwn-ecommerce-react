@@ -20,7 +20,7 @@ import {
   getDocs,
 } from 'firebase/firestore';
 
-// from mine
+// from mine - quota excedeed 
 
 // const firebaseConfig = {
 //   apiKey: "AIzaSyAc9ji_sdf463xIPdatcQZrgY0eJTyEmWo",
