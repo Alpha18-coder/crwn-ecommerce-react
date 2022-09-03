@@ -20,26 +20,13 @@ import {
   getDocs,
 } from 'firebase/firestore';
 
-// from mine - quota excedeed 
-
-// const firebaseConfig = {
-//   apiKey: "AIzaSyAc9ji_sdf463xIPdatcQZrgY0eJTyEmWo",
-//   authDomain: "crwn-project-9d2f1.firebaseapp.com",
-//   projectId: "crwn-project-9d2f1",
-//   storageBucket: "crwn-project-9d2f1.appspot.com",
-//   messagingSenderId: "170987754265",
-//   appId: "1:170987754265:web:2ce4753898ebf85584ab88"
-// };
-
-// from ztm
-
 const firebaseConfig = {
-  apiKey: 'AIzaSyDDU4V-_QV3M8GyhC9SVieRTDM4dbiT0Yk',
-  authDomain: 'crwn-clothing-db-98d4d.firebaseapp.com',
-  projectId: 'crwn-clothing-db-98d4d',
-  storageBucket: 'crwn-clothing-db-98d4d.appspot.com',
-  messagingSenderId: '626766232035',
-  appId: '1:626766232035:web:506621582dab103a4d08d6',
+  apiKey: "AIzaSyAc9ji_sdf463xIPdatcQZrgY0eJTyEmWo",
+  authDomain: "crwn-project-9d2f1.firebaseapp.com",
+  projectId: "crwn-project-9d2f1",
+  storageBucket: "crwn-project-9d2f1.appspot.com",
+  messagingSenderId: "170987754265",
+  appId: "1:170987754265:web:2ce4753898ebf85584ab88"
 };
 
 initializeApp(firebaseConfig);
